@@ -1,0 +1,101 @@
+merchant_id,merchant_name,category,city,country,onboarded_at
+1,"Larson, Williams and Webb",travel,Stephanieside,MZ,2024-07-22
+2,Turner Inc,education,Thomasberg,CI,2024-02-16
+3,Carr-Graham,retail,Taylorchester,EE,2022-12-10
+4,Martinez Inc,software,Joeport,OM,2021-08-16
+5,Porter-Castillo,healthcare,Torresport,LA,2024-02-22
+6,Harper-Burke,healthcare,Georgebury,SN,2023-04-16
+7,Smith-Rivas,software,West Mason,MG,2023-03-25
+8,Martin PLC,entertainment,North Joycefurt,CN,2022-12-12
+9,Arias Inc,utilities,Youngberg,ZW,2025-04-25
+10,Moore-Barton,healthcare,New Michael,LI,2024-02-09
+11,"Nguyen, White and Barnett",healthcare,Lake Meagan,CU,2024-01-13
+12,Sullivan PLC,retail,Tracyland,PE,2021-12-09
+13,Rogers Inc,healthcare,West Kyleland,IL,2025-03-09
+14,Parker-Ruiz,education,Daniellestad,CV,2023-11-27
+15,Russo-Dennis,entertainment,Danielmouth,CL,2024-05-28
+16,"Evans, Shaffer and Duncan",utilities,West Keith,UY,2023-02-07
+17,Cook Group,travel,East Jameshaven,GM,2024-12-15
+18,Russo Inc,utilities,East Margaret,SK,2022-12-04
+19,Mayer-Palmer,entertainment,Port Robin,BJ,2024-05-16
+20,Castillo Group,transportation,North Justin,TH,2025-01-26
+21,Stewart Inc,education,Huntermouth,MD,2023-12-22
+22,Murphy-Guerrero,transportation,Jessicafort,SG,2021-10-19
+23,Hunt Inc,entertainment,Rogerfort,ET,2023-11-11
+24,Booth-Crawford,retail,Ramosfurt,DK,2024-10-02
+25,"Frederick, Benitez and Walker",travel,Taylorshire,IE,2024-07-28
+26,"Leon, Green and Escobar",utilities,New Brianashire,AT,2021-09-08
+27,Williams PLC,food_and_beverage,Timothyshire,AM,2025-11-22
+28,Wall Ltd,services,Frankland,SR,2024-11-09
+29,"Boyd, Conway and Jackson",utilities,Peterhaven,SI,2023-11-27
+30,"Potter, Santana and Santiago",retail,Aguilarmouth,DO,2026-02-23
+31,Colon-Wu,travel,Cynthiashire,MG,2025-10-18
+32,Dougherty Ltd,services,Port Brittanyburgh,CV,2021-12-25
+33,Mcgee-Ford,education,Port Devinhaven,SR,2022-12-20
+34,"Franklin, Heath and Roach",entertainment,Smithmouth,GB,2026-04-24
+35,"Evans, Sheppard and Schaefer",entertainment,Port Josephborough,NO,2025-08-06
+36,Mills Group,education,North Ianborough,DZ,2021-08-17
+37,Rice LLC,services,Sweeneyville,BR,2026-04-17
+38,Lynch Group,transportation,West Sierramouth,TR,2021-06-21
+39,Rojas PLC,travel,Port Daniel,PT,2026-04-13
+40,Wood and Sons,education,Middletonshire,GE,2023-04-03
+41,Davis-Calderon,services,Julieside,GB,2021-07-20
+42,"Marshall, Curry and Mack",healthcare,Jamesfurt,AO,2022-05-29
+43,Johnston PLC,utilities,North Johnside,CN,2026-04-02
+44,Parker-Lucas,retail,Michaelbury,RS,2025-01-01
+45,Berry Ltd,education,Margaretville,SC,2022-06-03
+46,Campbell Inc,retail,West Jason,PL,2023-02-17
+47,Jones-Cooper,transportation,Harrisfurt,CU,2025-02-11
+48,Robinson LLC,transportation,Carrollborough,MH,2023-06-07
+49,"Brown, Smith and Cook",healthcare,Theresachester,BW,2024-06-29
+50,"Sosa, Cole and Sanchez",entertainment,Michellefurt,GY,2026-05-07
+51,Carroll-Kelly,education,North Noahbury,MX,2021-09-26
+52,"Anderson, Romero and Allen",travel,Whitetown,DJ,2026-01-03
+53,"Fisher, Cannon and Gray",entertainment,West Robinport,EE,2025-10-22
+54,Gray LLC,services,Caseychester,BO,2021-09-02
+55,Hanson Ltd,entertainment,Haleymouth,ZW,2023-02-12
+56,Nichols-Meyers,travel,Robertview,BB,2024-07-19
+57,Johnson Ltd,utilities,East Tracyborough,AG,2023-08-15
+58,Tucker and Sons,transportation,Taylorhaven,CA,2023-08-13
+59,"Green, Nelson and Wilson",utilities,New Logan,GH,2021-07-23
+60,"Jenkins, Salinas and Barnes",education,Greentown,TN,2022-11-07
+61,Wagner LLC,entertainment,Hubbardmouth,TW,2024-05-10
+62,Foley and Sons,education,Amandamouth,CR,2025-07-20
+63,Chavez and Sons,utilities,Lake Tammyside,TJ,2022-05-24
+64,Todd LLC,transportation,East Kevinborough,UA,2025-08-29
+65,"Santana, Hunter and Harris",food_and_beverage,Ramosstad,SG,2023-04-08
+66,"Young, Sullivan and Juarez",healthcare,Smithview,BY,2023-05-09
+67,"Smith, Smith and Gentry",education,Jameschester,AO,2022-12-16
+68,"Anderson, Anderson and Baker",education,North Sandra,BJ,2022-10-28
+69,Kline PLC,food_and_beverage,Lake Denisemouth,PL,2022-07-07
+70,Adams LLC,services,North Brianfort,FM,2023-09-09
+71,Cunningham and Sons,services,Nathanbury,TG,2022-01-05
+72,Howell Ltd,utilities,Coreyberg,CV,2023-09-24
+73,"Crane, Johnson and Cross",education,Hernandezfurt,IE,2026-04-05
+74,Harris-Thompson,transportation,South Meganberg,ER,2023-11-02
+75,Baker Ltd,retail,East Robert,CD,2025-11-29
+76,"Williams, Lee and Reyes",utilities,Garciafurt,GM,2021-10-20
+77,Smith-Payne,utilities,Bensonburgh,BG,2022-08-30
+78,Johnson LLC,healthcare,South Patricia,NI,2022-07-12
+79,Duncan and Sons,education,Mullenshire,AT,2021-06-16
+80,Marshall-Jacobs,services,North Codybury,CR,2024-03-18
+81,"Sheppard, Johnson and Murray",services,Daviston,TD,2025-03-19
+82,Martin Inc,entertainment,New Lisa,TM,2021-09-22
+83,"Hicks, Wilkerson and Rios",software,Thomasville,AR,2023-07-14
+84,Berg-Mckinney,software,Juliaville,SA,2022-04-26
+85,"Jackson, Morton and Brandt",software,Flowersmouth,IE,2023-12-24
+86,Russell and Sons,healthcare,Port Kevin,CO,2022-12-08
+87,Thomas-Wong,transportation,East Matthewborough,TZ,2023-09-02
+88,Thomas Ltd,software,New Josephmouth,PY,2022-11-28
+89,Jensen-Clark,food_and_beverage,South Darlene,MH,2024-01-23
+90,Walker and Sons,travel,Ortizmouth,UY,2023-12-05
+91,"Grant, Waller and Byrd",utilities,Stacystad,TV,2025-12-19
+92,Rodriguez-Johnson,transportation,North Baileyville,LB,2025-12-10
+93,"Nielsen, Davis and Trujillo",services,Holderport,ES,2025-12-06
+94,Scott-Hawkins,entertainment,Martinezmouth,MU,2021-11-15
+95,Porter LLC,travel,Stephentown,SE,2023-05-03
+96,Nicholson-Grant,healthcare,New Danielton,RW,2023-11-08
+97,"Mathis, Anderson and Kim",utilities,North Richardhaven,FR,2024-09-19
+98,"Hayden, Garrett and Bass",healthcare,Tinaview,SR,2023-08-30
+99,"Kim, Cole and Sampson",healthcare,North Jeffrey,SM,2024-11-11
+100,Hill-Lopez,food_and_beverage,East Cameronburgh,FR,2025-07-22
