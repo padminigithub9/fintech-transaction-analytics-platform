@@ -118,6 +118,6 @@ fintech_analytics/
 
 ## Dashboard Preview
 
-![FinTech Dashboard](screenshots/dashboard.png)
+![FinTech Dashboard](dashboard.png)
 
 ---
